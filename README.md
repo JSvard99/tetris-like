@@ -193,7 +193,7 @@ to override and implement the steps to set the color and the shapes of the piece
 I first want to mention that I would like to have added more to this project than what is showed here, but the 
 constraints of time did not allow me to. Here is a simple UML-diagram which I made before starting to code:
 
-![](src\main\resources\Project-UML.drawio.png)
+![](src/main/resources/Project-UML.drawio.png)
 
 As shown, the plan was to include a start screen and a system/screen for a leaderboard. This is one alternate approach I
 wish I would have had the time to include.
