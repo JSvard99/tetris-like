@@ -1,9 +1,9 @@
 # Screenshots
-![](screenshots\tetris-like-1.png)
+![](screenshots/tetris-like-1.png)
 
-![](screenshots\tetris-like-2.png)
+![](screenshots/tetris-like-2.png)
 
-![](screenshots\tetris-like-3.png)
+![](screenshots/tetris-like-3.png)
 
 # Final Project
 
