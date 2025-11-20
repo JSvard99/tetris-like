@@ -20,8 +20,7 @@ game ends when the game can no longer spawn a tetrimino at the top of the board,
 I am aiming for the grade D and the concrete goals for this grade include:
 
 - The application must be made using swing and must be somehow event driven.
-- The application must make use of the MVC design pattern, where the view and model cannot know of each other's 
-- existence.
+- The application must make use of the MVC design pattern, where the view and model cannot know of each other's existence.
 - At least two threads need to be running at the same time.
 - There needs to be at least four unique swing components and at least two swing layouts used.
 - At least three of the design patterns that have been covered in the course must be used; these patterns include 
