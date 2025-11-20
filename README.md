@@ -17,7 +17,7 @@ called tetriminos, are to be placed on a 10x20 game board, and the players' goal
 filling up the rows, the player then gains some amount of points, more lines cleared at once equals more points. The 
 game ends when the game can no longer spawn a tetrimino at the top of the board, and the game then ends.
 
-I am aiming for the grade D and the concrete goals for this grade include:
+The concrete goals for this project include:
 
 - The application must be made using swing and must be somehow event driven.
 - The application must make use of the MVC design pattern, where the view and model cannot know of each other's existence.
@@ -231,4 +231,4 @@ or hard to follow the code is, then I think to myself that I can come back later
 both because its challenge to return to code when the rest of the program depends on this code, and it becomes a major
 refactoring, and also because of the mentioned time constraints. 
 
-But overall, it was fun to create something from scratch with this much freedom. This is not something I do on my own.
+But overall, it was fun to create something from scratch with this much freedom.
