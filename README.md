@@ -1,5 +1,5 @@
 # Overview
-School project in course about objectoriented programming. The program is a tetris like game written in Java and has a GUI created with Swing. Below are some screenshots and a detailed report about the purpose and implementation of the project.
+School project in course about object-oriented programming. The program is a tetris like game written in Java and has a GUI created with Swing. Below are some screenshots and a detailed report about the purpose and implementation of the project.
 
 # Screenshots
 ![](screenshots/tetris-like-1.png)
